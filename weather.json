@@ -1,0 +1,5555 @@
+{
+  "Tucson, AZ": {
+    "1": [
+      {
+        "high": 65,
+        "low": 39,
+        "date": 1
+      },
+      {
+        "high": 66,
+        "low": 44,
+        "date": 2
+      },
+      {
+        "high": 64,
+        "low": 46,
+        "date": 3
+      },
+      {
+        "high": 71,
+        "low": 42,
+        "date": 4
+      },
+      {
+        "high": 71,
+        "low": 46,
+        "date": 5
+      },
+      {
+        "high": 71,
+        "low": 38,
+        "date": 6
+      },
+      {
+        "high": 69,
+        "low": 43,
+        "date": 7
+      },
+      {
+        "high": 70,
+        "low": 46,
+        "date": 8
+      },
+      {
+        "high": 70,
+        "low": 41,
+        "date": 9
+      },
+      {
+        "high": 64,
+        "low": 38,
+        "date": 10
+      },
+      {
+        "high": 71,
+        "low": 39,
+        "date": 11
+      },
+      {
+        "high": 61,
+        "low": 38,
+        "date": 12
+      },
+      {
+        "high": 63,
+        "low": 42,
+        "date": 13
+      },
+      {
+        "high": 63,
+        "low": 47,
+        "date": 14
+      },
+      {
+        "high": 67,
+        "low": 37,
+        "date": 15
+      },
+      {
+        "high": 71,
+        "low": 37,
+        "date": 16
+      },
+      {
+        "high": 65,
+        "low": 42,
+        "date": 17
+      },
+      {
+        "high": 62,
+        "low": 45,
+        "date": 18
+      },
+      {
+        "high": 70,
+        "low": 37,
+        "date": 19
+      },
+      {
+        "high": 63,
+        "low": 43,
+        "date": 20
+      },
+      {
+        "high": 70,
+        "low": 47,
+        "date": 21
+      },
+      {
+        "high": 69,
+        "low": 40,
+        "date": 22
+      },
+      {
+        "high": 67,
+        "low": 43,
+        "date": 23
+      },
+      {
+        "high": 64,
+        "low": 43,
+        "date": 24
+      },
+      {
+        "high": 69,
+        "low": 47,
+        "date": 25
+      },
+      {
+        "high": 66,
+        "low": 45,
+        "date": 26
+      },
+      {
+        "high": 67,
+        "low": 40,
+        "date": 27
+      },
+      {
+        "high": 69,
+        "low": 41,
+        "date": 28
+      },
+      {
+        "high": 67,
+        "low": 42,
+        "date": 29
+      },
+      {
+        "high": 64,
+        "low": 38,
+        "date": 30
+      },
+      {
+        "high": 63,
+        "low": 37,
+        "date": 31
+      }
+    ],
+    "2": [
+      {
+        "high": 73,
+        "low": 49,
+        "date": 1
+      },
+      {
+        "high": 67,
+        "low": 49,
+        "date": 2
+      },
+      {
+        "high": 71,
+        "low": 46,
+        "date": 3
+      },
+      {
+        "high": 66,
+        "low": 45,
+        "date": 4
+      },
+      {
+        "high": 72,
+        "low": 44,
+        "date": 5
+      },
+      {
+        "high": 74,
+        "low": 44,
+        "date": 6
+      },
+      {
+        "high": 68,
+        "low": 49,
+        "date": 7
+      },
+      {
+        "high": 68,
+        "low": 42,
+        "date": 8
+      },
+      {
+        "high": 75,
+        "low": 41,
+        "date": 9
+      },
+      {
+        "high": 72,
+        "low": 50,
+        "date": 10
+      },
+      {
+        "high": 75,
+        "low": 45,
+        "date": 11
+      },
+      {
+        "high": 66,
+        "low": 47,
+        "date": 12
+      },
+      {
+        "high": 66,
+        "low": 43,
+        "date": 13
+      },
+      {
+        "high": 70,
+        "low": 42,
+        "date": 14
+      },
+      {
+        "high": 74,
+        "low": 46,
+        "date": 15
+      },
+      {
+        "high": 70,
+        "low": 40,
+        "date": 16
+      },
+      {
+        "high": 71,
+        "low": 44,
+        "date": 17
+      },
+      {
+        "high": 74,
+        "low": 44,
+        "date": 18
+      },
+      {
+        "high": 69,
+        "low": 50,
+        "date": 19
+      },
+      {
+        "high": 69,
+        "low": 43,
+        "date": 20
+      },
+      {
+        "high": 67,
+        "low": 41,
+        "date": 21
+      },
+      {
+        "high": 75,
+        "low": 46,
+        "date": 22
+      },
+      {
+        "high": 66,
+        "low": 41,
+        "date": 23
+      },
+      {
+        "high": 73,
+        "low": 47,
+        "date": 24
+      },
+      {
+        "high": 73,
+        "low": 41,
+        "date": 25
+      },
+      {
+        "high": 71,
+        "low": 41,
+        "date": 26
+      },
+      {
+        "high": 68,
+        "low": 44,
+        "date": 27
+      },
+      {
+        "high": 70,
+        "low": 48,
+        "date": 28
+      }
+    ],
+    "3": [
+      {
+        "high": 75,
+        "low": 43,
+        "date": 1
+      },
+      {
+        "high": 76,
+        "low": 53,
+        "date": 2
+      },
+      {
+        "high": 80,
+        "low": 47,
+        "date": 3
+      },
+      {
+        "high": 77,
+        "low": 53,
+        "date": 4
+      },
+      {
+        "high": 78,
+        "low": 49,
+        "date": 5
+      },
+      {
+        "high": 79,
+        "low": 47,
+        "date": 6
+      },
+      {
+        "high": 71,
+        "low": 46,
+        "date": 7
+      },
+      {
+        "high": 72,
+        "low": 51,
+        "date": 8
+      },
+      {
+        "high": 78,
+        "low": 45,
+        "date": 9
+      },
+      {
+        "high": 72,
+        "low": 44,
+        "date": 10
+      },
+      {
+        "high": 74,
+        "low": 48,
+        "date": 11
+      },
+      {
+        "high": 76,
+        "low": 51,
+        "date": 12
+      },
+      {
+        "high": 74,
+        "low": 47,
+        "date": 13
+      },
+      {
+        "high": 75,
+        "low": 53,
+        "date": 14
+      },
+      {
+        "high": 76,
+        "low": 43,
+        "date": 15
+      },
+      {
+        "high": 75,
+        "low": 53,
+        "date": 16
+      },
+      {
+        "high": 75,
+        "low": 49,
+        "date": 17
+      },
+      {
+        "high": 80,
+        "low": 49,
+        "date": 18
+      },
+      {
+        "high": 75,
+        "low": 43,
+        "date": 19
+      },
+      {
+        "high": 74,
+        "low": 49,
+        "date": 20
+      },
+      {
+        "high": 79,
+        "low": 45,
+        "date": 21
+      },
+      {
+        "high": 70,
+        "low": 45,
+        "date": 22
+      },
+      {
+        "high": 70,
+        "low": 53,
+        "date": 23
+      },
+      {
+        "high": 75,
+        "low": 48,
+        "date": 24
+      },
+      {
+        "high": 79,
+        "low": 44,
+        "date": 25
+      },
+      {
+        "high": 79,
+        "low": 50,
+        "date": 26
+      },
+      {
+        "high": 70,
+        "low": 43,
+        "date": 27
+      },
+      {
+        "high": 80,
+        "low": 53,
+        "date": 28
+      },
+      {
+        "high": 80,
+        "low": 49,
+        "date": 29
+      },
+      {
+        "high": 79,
+        "low": 53,
+        "date": 30
+      },
+      {
+        "high": 74,
+        "low": 47,
+        "date": 31
+      }
+    ],
+    "4": [
+      {
+        "high": 87,
+        "low": 59,
+        "date": 1
+      },
+      {
+        "high": 81,
+        "low": 51,
+        "date": 2
+      },
+      {
+        "high": 85,
+        "low": 50,
+        "date": 3
+      },
+      {
+        "high": 83,
+        "low": 53,
+        "date": 4
+      },
+      {
+        "high": 87,
+        "low": 50,
+        "date": 5
+      },
+      {
+        "high": 79,
+        "low": 51,
+        "date": 6
+      },
+      {
+        "high": 82,
+        "low": 56,
+        "date": 7
+      },
+      {
+        "high": 82,
+        "low": 49,
+        "date": 8
+      },
+      {
+        "high": 86,
+        "low": 52,
+        "date": 9
+      },
+      {
+        "high": 85,
+        "low": 54,
+        "date": 10
+      },
+      {
+        "high": 85,
+        "low": 54,
+        "date": 11
+      },
+      {
+        "high": 79,
+        "low": 50,
+        "date": 12
+      },
+      {
+        "high": 81,
+        "low": 49,
+        "date": 13
+      },
+      {
+        "high": 81,
+        "low": 55,
+        "date": 14
+      },
+      {
+        "high": 80,
+        "low": 52,
+        "date": 15
+      },
+      {
+        "high": 79,
+        "low": 59,
+        "date": 16
+      },
+      {
+        "high": 88,
+        "low": 51,
+        "date": 17
+      },
+      {
+        "high": 79,
+        "low": 51,
+        "date": 18
+      },
+      {
+        "high": 81,
+        "low": 58,
+        "date": 19
+      },
+      {
+        "high": 87,
+        "low": 52,
+        "date": 20
+      },
+      {
+        "high": 80,
+        "low": 52,
+        "date": 21
+      },
+      {
+        "high": 88,
+        "low": 52,
+        "date": 22
+      },
+      {
+        "high": 86,
+        "low": 55,
+        "date": 23
+      },
+      {
+        "high": 83,
+        "low": 51,
+        "date": 24
+      },
+      {
+        "high": 81,
+        "low": 58,
+        "date": 25
+      },
+      {
+        "high": 81,
+        "low": 56,
+        "date": 26
+      },
+      {
+        "high": 81,
+        "low": 58,
+        "date": 27
+      },
+      {
+        "high": 82,
+        "low": 58,
+        "date": 28
+      },
+      {
+        "high": 85,
+        "low": 52,
+        "date": 29
+      },
+      {
+        "high": 78,
+        "low": 49,
+        "date": 30
+      }
+    ],
+    "5": [
+      {
+        "high": 86,
+        "low": 60,
+        "date": 1
+      },
+      {
+        "high": 96,
+        "low": 62,
+        "date": 2
+      },
+      {
+        "high": 96,
+        "low": 59,
+        "date": 3
+      },
+      {
+        "high": 89,
+        "low": 61,
+        "date": 4
+      },
+      {
+        "high": 87,
+        "low": 66,
+        "date": 5
+      },
+      {
+        "high": 93,
+        "low": 65,
+        "date": 6
+      },
+      {
+        "high": 93,
+        "low": 64,
+        "date": 7
+      },
+      {
+        "high": 89,
+        "low": 65,
+        "date": 8
+      },
+      {
+        "high": 94,
+        "low": 64,
+        "date": 9
+      },
+      {
+        "high": 96,
+        "low": 60,
+        "date": 10
+      },
+      {
+        "high": 87,
+        "low": 66,
+        "date": 11
+      },
+      {
+        "high": 88,
+        "low": 65,
+        "date": 12
+      },
+      {
+        "high": 88,
+        "low": 60,
+        "date": 13
+      },
+      {
+        "high": 95,
+        "low": 61,
+        "date": 14
+      },
+      {
+        "high": 89,
+        "low": 64,
+        "date": 15
+      },
+      {
+        "high": 86,
+        "low": 63,
+        "date": 16
+      },
+      {
+        "high": 95,
+        "low": 67,
+        "date": 17
+      },
+      {
+        "high": 95,
+        "low": 61,
+        "date": 18
+      },
+      {
+        "high": 92,
+        "low": 67,
+        "date": 19
+      },
+      {
+        "high": 94,
+        "low": 63,
+        "date": 20
+      },
+      {
+        "high": 87,
+        "low": 61,
+        "date": 21
+      },
+      {
+        "high": 93,
+        "low": 58,
+        "date": 22
+      },
+      {
+        "high": 88,
+        "low": 65,
+        "date": 23
+      },
+      {
+        "high": 96,
+        "low": 65,
+        "date": 24
+      },
+      {
+        "high": 94,
+        "low": 65,
+        "date": 25
+      },
+      {
+        "high": 96,
+        "low": 64,
+        "date": 26
+      },
+      {
+        "high": 92,
+        "low": 67,
+        "date": 27
+      },
+      {
+        "high": 91,
+        "low": 60,
+        "date": 28
+      },
+      {
+        "high": 92,
+        "low": 65,
+        "date": 29
+      },
+      {
+        "high": 89,
+        "low": 68,
+        "date": 30
+      },
+      {
+        "high": 95,
+        "low": 64,
+        "date": 31
+      }
+    ],
+    "6": [
+      {
+        "high": 99,
+        "low": 75,
+        "date": 1
+      },
+      {
+        "high": 95,
+        "low": 72,
+        "date": 2
+      },
+      {
+        "high": 102,
+        "low": 70,
+        "date": 3
+      },
+      {
+        "high": 101,
+        "low": 76,
+        "date": 4
+      },
+      {
+        "high": 96,
+        "low": 67,
+        "date": 5
+      },
+      {
+        "high": 103,
+        "low": 67,
+        "date": 6
+      },
+      {
+        "high": 95,
+        "low": 67,
+        "date": 7
+      },
+      {
+        "high": 104,
+        "low": 75,
+        "date": 8
+      },
+      {
+        "high": 96,
+        "low": 69,
+        "date": 9
+      },
+      {
+        "high": 105,
+        "low": 71,
+        "date": 10
+      },
+      {
+        "high": 95,
+        "low": 69,
+        "date": 11
+      },
+      {
+        "high": 102,
+        "low": 68,
+        "date": 12
+      },
+      {
+        "high": 96,
+        "low": 76,
+        "date": 13
+      },
+      {
+        "high": 97,
+        "low": 76,
+        "date": 14
+      },
+      {
+        "high": 101,
+        "low": 71,
+        "date": 15
+      },
+      {
+        "high": 100,
+        "low": 76,
+        "date": 16
+      },
+      {
+        "high": 99,
+        "low": 76,
+        "date": 17
+      },
+      {
+        "high": 103,
+        "low": 77,
+        "date": 18
+      },
+      {
+        "high": 105,
+        "low": 70,
+        "date": 19
+      },
+      {
+        "high": 100,
+        "low": 70,
+        "date": 20
+      },
+      {
+        "high": 105,
+        "low": 69,
+        "date": 21
+      },
+      {
+        "high": 105,
+        "low": 74,
+        "date": 22
+      },
+      {
+        "high": 102,
+        "low": 69,
+        "date": 23
+      },
+      {
+        "high": 99,
+        "low": 73,
+        "date": 24
+      },
+      {
+        "high": 103,
+        "low": 76,
+        "date": 25
+      },
+      {
+        "high": 97,
+        "low": 75,
+        "date": 26
+      },
+      {
+        "high": 102,
+        "low": 73,
+        "date": 27
+      },
+      {
+        "high": 95,
+        "low": 67,
+        "date": 28
+      },
+      {
+        "high": 98,
+        "low": 70,
+        "date": 29
+      },
+      {
+        "high": 105,
+        "low": 70,
+        "date": 30
+      }
+    ],
+    "7": [
+      {
+        "high": 102,
+        "low": 78,
+        "date": 1
+      },
+      {
+        "high": 101,
+        "low": 78,
+        "date": 2
+      },
+      {
+        "high": 96,
+        "low": 78,
+        "date": 3
+      },
+      {
+        "high": 104,
+        "low": 74,
+        "date": 4
+      },
+      {
+        "high": 95,
+        "low": 77,
+        "date": 5
+      },
+      {
+        "high": 103,
+        "low": 81,
+        "date": 6
+      },
+      {
+        "high": 99,
+        "low": 72,
+        "date": 7
+      },
+      {
+        "high": 95,
+        "low": 81,
+        "date": 8
+      },
+      {
+        "high": 104,
+        "low": 74,
+        "date": 9
+      },
+      {
+        "high": 105,
+        "low": 74,
+        "date": 10
+      },
+      {
+        "high": 98,
+        "low": 81,
+        "date": 11
+      },
+      {
+        "high": 95,
+        "low": 79,
+        "date": 12
+      },
+      {
+        "high": 101,
+        "low": 78,
+        "date": 13
+      },
+      {
+        "high": 104,
+        "low": 73,
+        "date": 14
+      },
+      {
+        "high": 101,
+        "low": 80,
+        "date": 15
+      },
+      {
+        "high": 104,
+        "low": 73,
+        "date": 16
+      },
+      {
+        "high": 97,
+        "low": 81,
+        "date": 17
+      },
+      {
+        "high": 102,
+        "low": 80,
+        "date": 18
+      },
+      {
+        "high": 97,
+        "low": 81,
+        "date": 19
+      },
+      {
+        "high": 100,
+        "low": 79,
+        "date": 20
+      },
+      {
+        "high": 103,
+        "low": 79,
+        "date": 21
+      },
+      {
+        "high": 97,
+        "low": 71,
+        "date": 22
+      },
+      {
+        "high": 95,
+        "low": 78,
+        "date": 23
+      },
+      {
+        "high": 97,
+        "low": 81,
+        "date": 24
+      },
+      {
+        "high": 97,
+        "low": 73,
+        "date": 25
+      },
+      {
+        "high": 105,
+        "low": 80,
+        "date": 26
+      },
+      {
+        "high": 105,
+        "low": 81,
+        "date": 27
+      },
+      {
+        "high": 103,
+        "low": 80,
+        "date": 28
+      },
+      {
+        "high": 105,
+        "low": 76,
+        "date": 29
+      },
+      {
+        "high": 101,
+        "low": 78,
+        "date": 30
+      },
+      {
+        "high": 102,
+        "low": 78,
+        "date": 31
+      }
+    ],
+    "8": [
+      {
+        "high": 95,
+        "low": 76,
+        "date": 1
+      },
+      {
+        "high": 97,
+        "low": 71,
+        "date": 2
+      },
+      {
+        "high": 95,
+        "low": 76,
+        "date": 3
+      },
+      {
+        "high": 97,
+        "low": 78,
+        "date": 4
+      },
+      {
+        "high": 95,
+        "low": 78,
+        "date": 5
+      },
+      {
+        "high": 94,
+        "low": 74,
+        "date": 6
+      },
+      {
+        "high": 104,
+        "low": 80,
+        "date": 7
+      },
+      {
+        "high": 103,
+        "low": 79,
+        "date": 8
+      },
+      {
+        "high": 104,
+        "low": 73,
+        "date": 9
+      },
+      {
+        "high": 98,
+        "low": 80,
+        "date": 10
+      },
+      {
+        "high": 102,
+        "low": 75,
+        "date": 11
+      },
+      {
+        "high": 99,
+        "low": 70,
+        "date": 12
+      },
+      {
+        "high": 95,
+        "low": 79,
+        "date": 13
+      },
+      {
+        "high": 103,
+        "low": 78,
+        "date": 14
+      },
+      {
+        "high": 102,
+        "low": 71,
+        "date": 15
+      },
+      {
+        "high": 101,
+        "low": 74,
+        "date": 16
+      },
+      {
+        "high": 101,
+        "low": 76,
+        "date": 17
+      },
+      {
+        "high": 100,
+        "low": 71,
+        "date": 18
+      },
+      {
+        "high": 102,
+        "low": 77,
+        "date": 19
+      },
+      {
+        "high": 95,
+        "low": 71,
+        "date": 20
+      },
+      {
+        "high": 96,
+        "low": 76,
+        "date": 21
+      },
+      {
+        "high": 102,
+        "low": 79,
+        "date": 22
+      },
+      {
+        "high": 100,
+        "low": 71,
+        "date": 23
+      },
+      {
+        "high": 99,
+        "low": 72,
+        "date": 24
+      },
+      {
+        "high": 99,
+        "low": 73,
+        "date": 25
+      },
+      {
+        "high": 97,
+        "low": 71,
+        "date": 26
+      },
+      {
+        "high": 96,
+        "low": 76,
+        "date": 27
+      },
+      {
+        "high": 95,
+        "low": 71,
+        "date": 28
+      },
+      {
+        "high": 104,
+        "low": 70,
+        "date": 29
+      },
+      {
+        "high": 102,
+        "low": 76,
+        "date": 30
+      },
+      {
+        "high": 94,
+        "low": 80,
+        "date": 31
+      }
+    ],
+    "9": [
+      {
+        "high": 91,
+        "low": 74,
+        "date": 1
+      },
+      {
+        "high": 92,
+        "low": 74,
+        "date": 2
+      },
+      {
+        "high": 95,
+        "low": 70,
+        "date": 3
+      },
+      {
+        "high": 97,
+        "low": 75,
+        "date": 4
+      },
+      {
+        "high": 90,
+        "low": 66,
+        "date": 5
+      },
+      {
+        "high": 96,
+        "low": 76,
+        "date": 6
+      },
+      {
+        "high": 96,
+        "low": 70,
+        "date": 7
+      },
+      {
+        "high": 92,
+        "low": 67,
+        "date": 8
+      },
+      {
+        "high": 97,
+        "low": 72,
+        "date": 9
+      },
+      {
+        "high": 93,
+        "low": 67,
+        "date": 10
+      },
+      {
+        "high": 98,
+        "low": 74,
+        "date": 11
+      },
+      {
+        "high": 93,
+        "low": 75,
+        "date": 12
+      },
+      {
+        "high": 94,
+        "low": 73,
+        "date": 13
+      },
+      {
+        "high": 100,
+        "low": 71,
+        "date": 14
+      },
+      {
+        "high": 99,
+        "low": 71,
+        "date": 15
+      },
+      {
+        "high": 95,
+        "low": 66,
+        "date": 16
+      },
+      {
+        "high": 96,
+        "low": 68,
+        "date": 17
+      },
+      {
+        "high": 99,
+        "low": 66,
+        "date": 18
+      },
+      {
+        "high": 91,
+        "low": 70,
+        "date": 19
+      },
+      {
+        "high": 93,
+        "low": 68,
+        "date": 20
+      },
+      {
+        "high": 91,
+        "low": 75,
+        "date": 21
+      },
+      {
+        "high": 91,
+        "low": 68,
+        "date": 22
+      },
+      {
+        "high": 100,
+        "low": 72,
+        "date": 23
+      },
+      {
+        "high": 95,
+        "low": 74,
+        "date": 24
+      },
+      {
+        "high": 92,
+        "low": 70,
+        "date": 25
+      },
+      {
+        "high": 100,
+        "low": 71,
+        "date": 26
+      },
+      {
+        "high": 96,
+        "low": 75,
+        "date": 27
+      },
+      {
+        "high": 90,
+        "low": 72,
+        "date": 28
+      },
+      {
+        "high": 90,
+        "low": 74,
+        "date": 29
+      },
+      {
+        "high": 90,
+        "low": 70,
+        "date": 30
+      }
+    ],
+    "10": [
+      {
+        "high": 81,
+        "low": 63,
+        "date": 1
+      },
+      {
+        "high": 90,
+        "low": 58,
+        "date": 2
+      },
+      {
+        "high": 85,
+        "low": 60,
+        "date": 3
+      },
+      {
+        "high": 81,
+        "low": 61,
+        "date": 4
+      },
+      {
+        "high": 86,
+        "low": 56,
+        "date": 5
+      },
+      {
+        "high": 81,
+        "low": 57,
+        "date": 6
+      },
+      {
+        "high": 80,
+        "low": 57,
+        "date": 7
+      },
+      {
+        "high": 82,
+        "low": 62,
+        "date": 8
+      },
+      {
+        "high": 85,
+        "low": 63,
+        "date": 9
+      },
+      {
+        "high": 89,
+        "low": 55,
+        "date": 10
+      },
+      {
+        "high": 85,
+        "low": 56,
+        "date": 11
+      },
+      {
+        "high": 85,
+        "low": 59,
+        "date": 12
+      },
+      {
+        "high": 85,
+        "low": 64,
+        "date": 13
+      },
+      {
+        "high": 82,
+        "low": 56,
+        "date": 14
+      },
+      {
+        "high": 89,
+        "low": 61,
+        "date": 15
+      },
+      {
+        "high": 90,
+        "low": 56,
+        "date": 16
+      },
+      {
+        "high": 82,
+        "low": 54,
+        "date": 17
+      },
+      {
+        "high": 82,
+        "low": 64,
+        "date": 18
+      },
+      {
+        "high": 80,
+        "low": 60,
+        "date": 19
+      },
+      {
+        "high": 84,
+        "low": 56,
+        "date": 20
+      },
+      {
+        "high": 88,
+        "low": 54,
+        "date": 21
+      },
+      {
+        "high": 82,
+        "low": 63,
+        "date": 22
+      },
+      {
+        "high": 87,
+        "low": 60,
+        "date": 23
+      },
+      {
+        "high": 83,
+        "low": 57,
+        "date": 24
+      },
+      {
+        "high": 89,
+        "low": 56,
+        "date": 25
+      },
+      {
+        "high": 86,
+        "low": 62,
+        "date": 26
+      },
+      {
+        "high": 82,
+        "low": 59,
+        "date": 27
+      },
+      {
+        "high": 84,
+        "low": 62,
+        "date": 28
+      },
+      {
+        "high": 86,
+        "low": 61,
+        "date": 29
+      },
+      {
+        "high": 90,
+        "low": 57,
+        "date": 30
+      },
+      {
+        "high": 84,
+        "low": 55,
+        "date": 31
+      }
+    ],
+    "11": [
+      {
+        "high": 72,
+        "low": 44,
+        "date": 1
+      },
+      {
+        "high": 69,
+        "low": 48,
+        "date": 2
+      },
+      {
+        "high": 78,
+        "low": 53,
+        "date": 3
+      },
+      {
+        "high": 76,
+        "low": 48,
+        "date": 4
+      },
+      {
+        "high": 73,
+        "low": 53,
+        "date": 5
+      },
+      {
+        "high": 72,
+        "low": 49,
+        "date": 6
+      },
+      {
+        "high": 73,
+        "low": 49,
+        "date": 7
+      },
+      {
+        "high": 70,
+        "low": 53,
+        "date": 8
+      },
+      {
+        "high": 72,
+        "low": 47,
+        "date": 9
+      },
+      {
+        "high": 78,
+        "low": 43,
+        "date": 10
+      },
+      {
+        "high": 79,
+        "low": 44,
+        "date": 11
+      },
+      {
+        "high": 76,
+        "low": 45,
+        "date": 12
+      },
+      {
+        "high": 76,
+        "low": 49,
+        "date": 13
+      },
+      {
+        "high": 71,
+        "low": 53,
+        "date": 14
+      },
+      {
+        "high": 77,
+        "low": 52,
+        "date": 15
+      },
+      {
+        "high": 70,
+        "low": 47,
+        "date": 16
+      },
+      {
+        "high": 70,
+        "low": 49,
+        "date": 17
+      },
+      {
+        "high": 73,
+        "low": 52,
+        "date": 18
+      },
+      {
+        "high": 77,
+        "low": 46,
+        "date": 19
+      },
+      {
+        "high": 72,
+        "low": 48,
+        "date": 20
+      },
+      {
+        "high": 77,
+        "low": 48,
+        "date": 21
+      },
+      {
+        "high": 79,
+        "low": 47,
+        "date": 22
+      },
+      {
+        "high": 75,
+        "low": 51,
+        "date": 23
+      },
+      {
+        "high": 77,
+        "low": 53,
+        "date": 24
+      },
+      {
+        "high": 74,
+        "low": 49,
+        "date": 25
+      },
+      {
+        "high": 70,
+        "low": 51,
+        "date": 26
+      },
+      {
+        "high": 77,
+        "low": 50,
+        "date": 27
+      },
+      {
+        "high": 76,
+        "low": 44,
+        "date": 28
+      },
+      {
+        "high": 69,
+        "low": 48,
+        "date": 29
+      },
+      {
+        "high": 79,
+        "low": 52,
+        "date": 30
+      }
+    ],
+    "12": [
+      {
+        "high": 63,
+        "low": 43,
+        "date": 1
+      },
+      {
+        "high": 69,
+        "low": 44,
+        "date": 2
+      },
+      {
+        "high": 69,
+        "low": 37,
+        "date": 3
+      },
+      {
+        "high": 68,
+        "low": 46,
+        "date": 4
+      },
+      {
+        "high": 71,
+        "low": 40,
+        "date": 5
+      },
+      {
+        "high": 67,
+        "low": 38,
+        "date": 6
+      },
+      {
+        "high": 63,
+        "low": 46,
+        "date": 7
+      },
+      {
+        "high": 71,
+        "low": 39,
+        "date": 8
+      },
+      {
+        "high": 69,
+        "low": 46,
+        "date": 9
+      },
+      {
+        "high": 67,
+        "low": 38,
+        "date": 10
+      },
+      {
+        "high": 68,
+        "low": 43,
+        "date": 11
+      },
+      {
+        "high": 64,
+        "low": 43,
+        "date": 12
+      },
+      {
+        "high": 69,
+        "low": 36,
+        "date": 13
+      },
+      {
+        "high": 64,
+        "low": 41,
+        "date": 14
+      },
+      {
+        "high": 65,
+        "low": 46,
+        "date": 15
+      },
+      {
+        "high": 64,
+        "low": 39,
+        "date": 16
+      },
+      {
+        "high": 67,
+        "low": 44,
+        "date": 17
+      },
+      {
+        "high": 61,
+        "low": 45,
+        "date": 18
+      },
+      {
+        "high": 71,
+        "low": 45,
+        "date": 19
+      },
+      {
+        "high": 71,
+        "low": 38,
+        "date": 20
+      },
+      {
+        "high": 63,
+        "low": 43,
+        "date": 21
+      },
+      {
+        "high": 65,
+        "low": 46,
+        "date": 22
+      },
+      {
+        "high": 69,
+        "low": 45,
+        "date": 23
+      },
+      {
+        "high": 71,
+        "low": 37,
+        "date": 24
+      },
+      {
+        "high": 62,
+        "low": 42,
+        "date": 25
+      },
+      {
+        "high": 70,
+        "low": 40,
+        "date": 26
+      },
+      {
+        "high": 69,
+        "low": 43,
+        "date": 27
+      },
+      {
+        "high": 68,
+        "low": 40,
+        "date": 28
+      },
+      {
+        "high": 61,
+        "low": 43,
+        "date": 29
+      },
+      {
+        "high": 69,
+        "low": 39,
+        "date": 30
+      },
+      {
+        "high": 66,
+        "low": 44,
+        "date": 31
+      }
+    ]
+  },
+  "San Diego, CA": {
+    "1": [
+      {
+        "high": 63,
+        "low": 51,
+        "date": 1
+      },
+      {
+        "high": 68,
+        "low": 46,
+        "date": 2
+      },
+      {
+        "high": 61,
+        "low": 48,
+        "date": 3
+      },
+      {
+        "high": 70,
+        "low": 51,
+        "date": 4
+      },
+      {
+        "high": 66,
+        "low": 55,
+        "date": 5
+      },
+      {
+        "high": 65,
+        "low": 47,
+        "date": 6
+      },
+      {
+        "high": 71,
+        "low": 53,
+        "date": 7
+      },
+      {
+        "high": 63,
+        "low": 45,
+        "date": 8
+      },
+      {
+        "high": 67,
+        "low": 50,
+        "date": 9
+      },
+      {
+        "high": 71,
+        "low": 52,
+        "date": 10
+      },
+      {
+        "high": 61,
+        "low": 50,
+        "date": 11
+      },
+      {
+        "high": 63,
+        "low": 47,
+        "date": 12
+      },
+      {
+        "high": 71,
+        "low": 54,
+        "date": 13
+      },
+      {
+        "high": 70,
+        "low": 51,
+        "date": 14
+      },
+      {
+        "high": 67,
+        "low": 55,
+        "date": 15
+      },
+      {
+        "high": 71,
+        "low": 50,
+        "date": 16
+      },
+      {
+        "high": 61,
+        "low": 53,
+        "date": 17
+      },
+      {
+        "high": 68,
+        "low": 47,
+        "date": 18
+      },
+      {
+        "high": 67,
+        "low": 45,
+        "date": 19
+      },
+      {
+        "high": 68,
+        "low": 47,
+        "date": 20
+      },
+      {
+        "high": 71,
+        "low": 51,
+        "date": 21
+      },
+      {
+        "high": 61,
+        "low": 45,
+        "date": 22
+      },
+      {
+        "high": 65,
+        "low": 54,
+        "date": 23
+      },
+      {
+        "high": 64,
+        "low": 48,
+        "date": 24
+      },
+      {
+        "high": 67,
+        "low": 54,
+        "date": 25
+      },
+      {
+        "high": 64,
+        "low": 53,
+        "date": 26
+      },
+      {
+        "high": 61,
+        "low": 54,
+        "date": 27
+      },
+      {
+        "high": 68,
+        "low": 53,
+        "date": 28
+      },
+      {
+        "high": 71,
+        "low": 53,
+        "date": 29
+      },
+      {
+        "high": 61,
+        "low": 48,
+        "date": 30
+      },
+      {
+        "high": 62,
+        "low": 48,
+        "date": 31
+      }
+    ],
+    "2": [
+      {
+        "high": 62,
+        "low": 46,
+        "date": 1
+      },
+      {
+        "high": 66,
+        "low": 46,
+        "date": 2
+      },
+      {
+        "high": 71,
+        "low": 54,
+        "date": 3
+      },
+      {
+        "high": 68,
+        "low": 53,
+        "date": 4
+      },
+      {
+        "high": 65,
+        "low": 47,
+        "date": 5
+      },
+      {
+        "high": 69,
+        "low": 46,
+        "date": 6
+      },
+      {
+        "high": 68,
+        "low": 49,
+        "date": 7
+      },
+      {
+        "high": 61,
+        "low": 54,
+        "date": 8
+      },
+      {
+        "high": 70,
+        "low": 53,
+        "date": 9
+      },
+      {
+        "high": 65,
+        "low": 50,
+        "date": 10
+      },
+      {
+        "high": 63,
+        "low": 56,
+        "date": 11
+      },
+      {
+        "high": 68,
+        "low": 53,
+        "date": 12
+      },
+      {
+        "high": 63,
+        "low": 46,
+        "date": 13
+      },
+      {
+        "high": 71,
+        "low": 48,
+        "date": 14
+      },
+      {
+        "high": 68,
+        "low": 55,
+        "date": 15
+      },
+      {
+        "high": 61,
+        "low": 47,
+        "date": 16
+      },
+      {
+        "high": 65,
+        "low": 51,
+        "date": 17
+      },
+      {
+        "high": 69,
+        "low": 52,
+        "date": 18
+      },
+      {
+        "high": 70,
+        "low": 47,
+        "date": 19
+      },
+      {
+        "high": 62,
+        "low": 47,
+        "date": 20
+      },
+      {
+        "high": 66,
+        "low": 56,
+        "date": 21
+      },
+      {
+        "high": 67,
+        "low": 53,
+        "date": 22
+      },
+      {
+        "high": 63,
+        "low": 56,
+        "date": 23
+      },
+      {
+        "high": 67,
+        "low": 54,
+        "date": 24
+      },
+      {
+        "high": 66,
+        "low": 46,
+        "date": 25
+      },
+      {
+        "high": 65,
+        "low": 48,
+        "date": 26
+      },
+      {
+        "high": 70,
+        "low": 55,
+        "date": 27
+      },
+      {
+        "high": 69,
+        "low": 49,
+        "date": 28
+      }
+    ],
+    "3": [
+      {
+        "high": 63,
+        "low": 59,
+        "date": 1
+      },
+      {
+        "high": 67,
+        "low": 54,
+        "date": 2
+      },
+      {
+        "high": 65,
+        "low": 59,
+        "date": 3
+      },
+      {
+        "high": 65,
+        "low": 54,
+        "date": 4
+      },
+      {
+        "high": 64,
+        "low": 53,
+        "date": 5
+      },
+      {
+        "high": 67,
+        "low": 58,
+        "date": 6
+      },
+      {
+        "high": 62,
+        "low": 54,
+        "date": 7
+      },
+      {
+        "high": 72,
+        "low": 55,
+        "date": 8
+      },
+      {
+        "high": 64,
+        "low": 53,
+        "date": 9
+      },
+      {
+        "high": 64,
+        "low": 53,
+        "date": 10
+      },
+      {
+        "high": 71,
+        "low": 51,
+        "date": 11
+      },
+      {
+        "high": 64,
+        "low": 51,
+        "date": 12
+      },
+      {
+        "high": 63,
+        "low": 50,
+        "date": 13
+      },
+      {
+        "high": 67,
+        "low": 50,
+        "date": 14
+      },
+      {
+        "high": 69,
+        "low": 56,
+        "date": 15
+      },
+      {
+        "high": 66,
+        "low": 51,
+        "date": 16
+      },
+      {
+        "high": 67,
+        "low": 55,
+        "date": 17
+      },
+      {
+        "high": 64,
+        "low": 56,
+        "date": 18
+      },
+      {
+        "high": 65,
+        "low": 52,
+        "date": 19
+      },
+      {
+        "high": 62,
+        "low": 52,
+        "date": 20
+      },
+      {
+        "high": 69,
+        "low": 59,
+        "date": 21
+      },
+      {
+        "high": 68,
+        "low": 51,
+        "date": 22
+      },
+      {
+        "high": 72,
+        "low": 57,
+        "date": 23
+      },
+      {
+        "high": 70,
+        "low": 53,
+        "date": 24
+      },
+      {
+        "high": 68,
+        "low": 58,
+        "date": 25
+      },
+      {
+        "high": 62,
+        "low": 51,
+        "date": 26
+      },
+      {
+        "high": 70,
+        "low": 54,
+        "date": 27
+      },
+      {
+        "high": 65,
+        "low": 57,
+        "date": 28
+      },
+      {
+        "high": 62,
+        "low": 55,
+        "date": 29
+      },
+      {
+        "high": 72,
+        "low": 58,
+        "date": 30
+      },
+      {
+        "high": 66,
+        "low": 55,
+        "date": 31
+      }
+    ],
+    "4": [
+      {
+        "high": 70,
+        "low": 54,
+        "date": 1
+      },
+      {
+        "high": 70,
+        "low": 56,
+        "date": 2
+      },
+      {
+        "high": 72,
+        "low": 56,
+        "date": 3
+      },
+      {
+        "high": 74,
+        "low": 61,
+        "date": 4
+      },
+      {
+        "high": 73,
+        "low": 59,
+        "date": 5
+      },
+      {
+        "high": 64,
+        "low": 52,
+        "date": 6
+      },
+      {
+        "high": 71,
+        "low": 57,
+        "date": 7
+      },
+      {
+        "high": 68,
+        "low": 54,
+        "date": 8
+      },
+      {
+        "high": 72,
+        "low": 56,
+        "date": 9
+      },
+      {
+        "high": 64,
+        "low": 54,
+        "date": 10
+      },
+      {
+        "high": 64,
+        "low": 54,
+        "date": 11
+      },
+      {
+        "high": 70,
+        "low": 58,
+        "date": 12
+      },
+      {
+        "high": 66,
+        "low": 60,
+        "date": 13
+      },
+      {
+        "high": 64,
+        "low": 52,
+        "date": 14
+      },
+      {
+        "high": 72,
+        "low": 61,
+        "date": 15
+      },
+      {
+        "high": 72,
+        "low": 54,
+        "date": 16
+      },
+      {
+        "high": 68,
+        "low": 54,
+        "date": 17
+      },
+      {
+        "high": 64,
+        "low": 59,
+        "date": 18
+      },
+      {
+        "high": 68,
+        "low": 52,
+        "date": 19
+      },
+      {
+        "high": 66,
+        "low": 56,
+        "date": 20
+      },
+      {
+        "high": 65,
+        "low": 54,
+        "date": 21
+      },
+      {
+        "high": 65,
+        "low": 60,
+        "date": 22
+      },
+      {
+        "high": 74,
+        "low": 56,
+        "date": 23
+      },
+      {
+        "high": 66,
+        "low": 61,
+        "date": 24
+      },
+      {
+        "high": 65,
+        "low": 52,
+        "date": 25
+      },
+      {
+        "high": 65,
+        "low": 51,
+        "date": 26
+      },
+      {
+        "high": 73,
+        "low": 53,
+        "date": 27
+      },
+      {
+        "high": 68,
+        "low": 59,
+        "date": 28
+      },
+      {
+        "high": 74,
+        "low": 60,
+        "date": 29
+      },
+      {
+        "high": 64,
+        "low": 53,
+        "date": 30
+      }
+    ],
+    "5": [
+      {
+        "high": 65,
+        "low": 62,
+        "date": 1
+      },
+      {
+        "high": 70,
+        "low": 61,
+        "date": 2
+      },
+      {
+        "high": 72,
+        "low": 55,
+        "date": 3
+      },
+      {
+        "high": 70,
+        "low": 65,
+        "date": 4
+      },
+      {
+        "high": 65,
+        "low": 63,
+        "date": 5
+      },
+      {
+        "high": 69,
+        "low": 64,
+        "date": 6
+      },
+      {
+        "high": 70,
+        "low": 60,
+        "date": 7
+      },
+      {
+        "high": 67,
+        "low": 63,
+        "date": 8
+      },
+      {
+        "high": 73,
+        "low": 55,
+        "date": 9
+      },
+      {
+        "high": 73,
+        "low": 64,
+        "date": 10
+      },
+      {
+        "high": 65,
+        "low": 59,
+        "date": 11
+      },
+      {
+        "high": 65,
+        "low": 62,
+        "date": 12
+      },
+      {
+        "high": 67,
+        "low": 64,
+        "date": 13
+      },
+      {
+        "high": 64,
+        "low": 56,
+        "date": 14
+      },
+      {
+        "high": 74,
+        "low": 56,
+        "date": 15
+      },
+      {
+        "high": 72,
+        "low": 57,
+        "date": 16
+      },
+      {
+        "high": 71,
+        "low": 63,
+        "date": 17
+      },
+      {
+        "high": 65,
+        "low": 55,
+        "date": 18
+      },
+      {
+        "high": 69,
+        "low": 57,
+        "date": 19
+      },
+      {
+        "high": 70,
+        "low": 62,
+        "date": 20
+      },
+      {
+        "high": 66,
+        "low": 60,
+        "date": 21
+      },
+      {
+        "high": 64,
+        "low": 65,
+        "date": 22
+      },
+      {
+        "high": 73,
+        "low": 55,
+        "date": 23
+      },
+      {
+        "high": 64,
+        "low": 56,
+        "date": 24
+      },
+      {
+        "high": 74,
+        "low": 60,
+        "date": 25
+      },
+      {
+        "high": 73,
+        "low": 57,
+        "date": 26
+      },
+      {
+        "high": 64,
+        "low": 58,
+        "date": 27
+      },
+      {
+        "high": 67,
+        "low": 55,
+        "date": 28
+      },
+      {
+        "high": 71,
+        "low": 57,
+        "date": 29
+      },
+      {
+        "high": 72,
+        "low": 56,
+        "date": 30
+      },
+      {
+        "high": 68,
+        "low": 56,
+        "date": 31
+      }
+    ],
+    "6": [
+      {
+        "high": 75,
+        "low": 66,
+        "date": 1
+      },
+      {
+        "high": 72,
+        "low": 66,
+        "date": 2
+      },
+      {
+        "high": 70,
+        "low": 62,
+        "date": 3
+      },
+      {
+        "high": 72,
+        "low": 60,
+        "date": 4
+      },
+      {
+        "high": 71,
+        "low": 66,
+        "date": 5
+      },
+      {
+        "high": 68,
+        "low": 66,
+        "date": 6
+      },
+      {
+        "high": 77,
+        "low": 66,
+        "date": 7
+      },
+      {
+        "high": 69,
+        "low": 61,
+        "date": 8
+      },
+      {
+        "high": 69,
+        "low": 65,
+        "date": 9
+      },
+      {
+        "high": 68,
+        "low": 62,
+        "date": 10
+      },
+      {
+        "high": 74,
+        "low": 66,
+        "date": 11
+      },
+      {
+        "high": 69,
+        "low": 60,
+        "date": 12
+      },
+      {
+        "high": 70,
+        "low": 59,
+        "date": 13
+      },
+      {
+        "high": 75,
+        "low": 65,
+        "date": 14
+      },
+      {
+        "high": 71,
+        "low": 67,
+        "date": 15
+      },
+      {
+        "high": 72,
+        "low": 64,
+        "date": 16
+      },
+      {
+        "high": 77,
+        "low": 66,
+        "date": 17
+      },
+      {
+        "high": 76,
+        "low": 65,
+        "date": 18
+      },
+      {
+        "high": 74,
+        "low": 61,
+        "date": 19
+      },
+      {
+        "high": 69,
+        "low": 58,
+        "date": 20
+      },
+      {
+        "high": 68,
+        "low": 66,
+        "date": 21
+      },
+      {
+        "high": 75,
+        "low": 59,
+        "date": 22
+      },
+      {
+        "high": 68,
+        "low": 63,
+        "date": 23
+      },
+      {
+        "high": 68,
+        "low": 57,
+        "date": 24
+      },
+      {
+        "high": 75,
+        "low": 67,
+        "date": 25
+      },
+      {
+        "high": 69,
+        "low": 67,
+        "date": 26
+      },
+      {
+        "high": 75,
+        "low": 67,
+        "date": 27
+      },
+      {
+        "high": 70,
+        "low": 63,
+        "date": 28
+      },
+      {
+        "high": 68,
+        "low": 67,
+        "date": 29
+      },
+      {
+        "high": 73,
+        "low": 67,
+        "date": 30
+      }
+    ],
+    "7": [
+      {
+        "high": 79,
+        "low": 65,
+        "date": 1
+      },
+      {
+        "high": 77,
+        "low": 62,
+        "date": 2
+      },
+      {
+        "high": 76,
+        "low": 67,
+        "date": 3
+      },
+      {
+        "high": 80,
+        "low": 69,
+        "date": 4
+      },
+      {
+        "high": 78,
+        "low": 71,
+        "date": 5
+      },
+      {
+        "high": 73,
+        "low": 67,
+        "date": 6
+      },
+      {
+        "high": 81,
+        "low": 69,
+        "date": 7
+      },
+      {
+        "high": 77,
+        "low": 61,
+        "date": 8
+      },
+      {
+        "high": 74,
+        "low": 68,
+        "date": 9
+      },
+      {
+        "high": 80,
+        "low": 68,
+        "date": 10
+      },
+      {
+        "high": 77,
+        "low": 63,
+        "date": 11
+      },
+      {
+        "high": 79,
+        "low": 65,
+        "date": 12
+      },
+      {
+        "high": 76,
+        "low": 70,
+        "date": 13
+      },
+      {
+        "high": 79,
+        "low": 70,
+        "date": 14
+      },
+      {
+        "high": 81,
+        "low": 68,
+        "date": 15
+      },
+      {
+        "high": 76,
+        "low": 71,
+        "date": 16
+      },
+      {
+        "high": 74,
+        "low": 71,
+        "date": 17
+      },
+      {
+        "high": 74,
+        "low": 69,
+        "date": 18
+      },
+      {
+        "high": 80,
+        "low": 71,
+        "date": 19
+      },
+      {
+        "high": 80,
+        "low": 67,
+        "date": 20
+      },
+      {
+        "high": 76,
+        "low": 71,
+        "date": 21
+      },
+      {
+        "high": 78,
+        "low": 67,
+        "date": 22
+      },
+      {
+        "high": 80,
+        "low": 64,
+        "date": 23
+      },
+      {
+        "high": 74,
+        "low": 63,
+        "date": 24
+      },
+      {
+        "high": 78,
+        "low": 63,
+        "date": 25
+      },
+      {
+        "high": 79,
+        "low": 66,
+        "date": 26
+      },
+      {
+        "high": 71,
+        "low": 64,
+        "date": 27
+      },
+      {
+        "high": 78,
+        "low": 67,
+        "date": 28
+      },
+      {
+        "high": 78,
+        "low": 68,
+        "date": 29
+      },
+      {
+        "high": 80,
+        "low": 63,
+        "date": 30
+      },
+      {
+        "high": 74,
+        "low": 63,
+        "date": 31
+      }
+    ],
+    "8": [
+      {
+        "high": 78,
+        "low": 68,
+        "date": 1
+      },
+      {
+        "high": 74,
+        "low": 62,
+        "date": 2
+      },
+      {
+        "high": 81,
+        "low": 69,
+        "date": 3
+      },
+      {
+        "high": 80,
+        "low": 67,
+        "date": 4
+      },
+      {
+        "high": 82,
+        "low": 68,
+        "date": 5
+      },
+      {
+        "high": 82,
+        "low": 65,
+        "date": 6
+      },
+      {
+        "high": 80,
+        "low": 64,
+        "date": 7
+      },
+      {
+        "high": 73,
+        "low": 69,
+        "date": 8
+      },
+      {
+        "high": 76,
+        "low": 66,
+        "date": 9
+      },
+      {
+        "high": 78,
+        "low": 70,
+        "date": 10
+      },
+      {
+        "high": 77,
+        "low": 67,
+        "date": 11
+      },
+      {
+        "high": 80,
+        "low": 71,
+        "date": 12
+      },
+      {
+        "high": 82,
+        "low": 68,
+        "date": 13
+      },
+      {
+        "high": 77,
+        "low": 66,
+        "date": 14
+      },
+      {
+        "high": 78,
+        "low": 63,
+        "date": 15
+      },
+      {
+        "high": 82,
+        "low": 68,
+        "date": 16
+      },
+      {
+        "high": 77,
+        "low": 66,
+        "date": 17
+      },
+      {
+        "high": 82,
+        "low": 62,
+        "date": 18
+      },
+      {
+        "high": 79,
+        "low": 68,
+        "date": 19
+      },
+      {
+        "high": 82,
+        "low": 65,
+        "date": 20
+      },
+      {
+        "high": 75,
+        "low": 72,
+        "date": 21
+      },
+      {
+        "high": 73,
+        "low": 63,
+        "date": 22
+      },
+      {
+        "high": 76,
+        "low": 71,
+        "date": 23
+      },
+      {
+        "high": 77,
+        "low": 71,
+        "date": 24
+      },
+      {
+        "high": 73,
+        "low": 62,
+        "date": 25
+      },
+      {
+        "high": 72,
+        "low": 67,
+        "date": 26
+      },
+      {
+        "high": 82,
+        "low": 64,
+        "date": 27
+      },
+      {
+        "high": 74,
+        "low": 70,
+        "date": 28
+      },
+      {
+        "high": 73,
+        "low": 62,
+        "date": 29
+      },
+      {
+        "high": 81,
+        "low": 66,
+        "date": 30
+      },
+      {
+        "high": 76,
+        "low": 65,
+        "date": 31
+      }
+    ],
+    "9": [
+      {
+        "high": 82,
+        "low": 70,
+        "date": 1
+      },
+      {
+        "high": 81,
+        "low": 68,
+        "date": 2
+      },
+      {
+        "high": 74,
+        "low": 61,
+        "date": 3
+      },
+      {
+        "high": 75,
+        "low": 61,
+        "date": 4
+      },
+      {
+        "high": 78,
+        "low": 69,
+        "date": 5
+      },
+      {
+        "high": 72,
+        "low": 65,
+        "date": 6
+      },
+      {
+        "high": 81,
+        "low": 62,
+        "date": 7
+      },
+      {
+        "high": 80,
+        "low": 71,
+        "date": 8
+      },
+      {
+        "high": 82,
+        "low": 70,
+        "date": 9
+      },
+      {
+        "high": 78,
+        "low": 67,
+        "date": 10
+      },
+      {
+        "high": 81,
+        "low": 64,
+        "date": 11
+      },
+      {
+        "high": 75,
+        "low": 66,
+        "date": 12
+      },
+      {
+        "high": 82,
+        "low": 62,
+        "date": 13
+      },
+      {
+        "high": 79,
+        "low": 64,
+        "date": 14
+      },
+      {
+        "high": 76,
+        "low": 65,
+        "date": 15
+      },
+      {
+        "high": 80,
+        "low": 62,
+        "date": 16
+      },
+      {
+        "high": 75,
+        "low": 64,
+        "date": 17
+      },
+      {
+        "high": 80,
+        "low": 62,
+        "date": 18
+      },
+      {
+        "high": 73,
+        "low": 66,
+        "date": 19
+      },
+      {
+        "high": 76,
+        "low": 70,
+        "date": 20
+      },
+      {
+        "high": 78,
+        "low": 71,
+        "date": 21
+      },
+      {
+        "high": 82,
+        "low": 65,
+        "date": 22
+      },
+      {
+        "high": 79,
+        "low": 70,
+        "date": 23
+      },
+      {
+        "high": 81,
+        "low": 69,
+        "date": 24
+      },
+      {
+        "high": 78,
+        "low": 71,
+        "date": 25
+      },
+      {
+        "high": 73,
+        "low": 66,
+        "date": 26
+      },
+      {
+        "high": 72,
+        "low": 62,
+        "date": 27
+      },
+      {
+        "high": 72,
+        "low": 71,
+        "date": 28
+      },
+      {
+        "high": 80,
+        "low": 69,
+        "date": 29
+      },
+      {
+        "high": 75,
+        "low": 63,
+        "date": 30
+      }
+    ],
+    "10": [
+      {
+        "high": 74,
+        "low": 65,
+        "date": 1
+      },
+      {
+        "high": 75,
+        "low": 61,
+        "date": 2
+      },
+      {
+        "high": 73,
+        "low": 61,
+        "date": 3
+      },
+      {
+        "high": 69,
+        "low": 58,
+        "date": 4
+      },
+      {
+        "high": 79,
+        "low": 57,
+        "date": 5
+      },
+      {
+        "high": 75,
+        "low": 56,
+        "date": 6
+      },
+      {
+        "high": 73,
+        "low": 66,
+        "date": 7
+      },
+      {
+        "high": 72,
+        "low": 64,
+        "date": 8
+      },
+      {
+        "high": 72,
+        "low": 58,
+        "date": 9
+      },
+      {
+        "high": 75,
+        "low": 59,
+        "date": 10
+      },
+      {
+        "high": 78,
+        "low": 58,
+        "date": 11
+      },
+      {
+        "high": 78,
+        "low": 64,
+        "date": 12
+      },
+      {
+        "high": 77,
+        "low": 65,
+        "date": 13
+      },
+      {
+        "high": 73,
+        "low": 62,
+        "date": 14
+      },
+      {
+        "high": 78,
+        "low": 60,
+        "date": 15
+      },
+      {
+        "high": 78,
+        "low": 61,
+        "date": 16
+      },
+      {
+        "high": 75,
+        "low": 57,
+        "date": 17
+      },
+      {
+        "high": 71,
+        "low": 61,
+        "date": 18
+      },
+      {
+        "high": 77,
+        "low": 56,
+        "date": 19
+      },
+      {
+        "high": 76,
+        "low": 58,
+        "date": 20
+      },
+      {
+        "high": 72,
+        "low": 60,
+        "date": 21
+      },
+      {
+        "high": 74,
+        "low": 57,
+        "date": 22
+      },
+      {
+        "high": 73,
+        "low": 66,
+        "date": 23
+      },
+      {
+        "high": 70,
+        "low": 65,
+        "date": 24
+      },
+      {
+        "high": 78,
+        "low": 63,
+        "date": 25
+      },
+      {
+        "high": 77,
+        "low": 64,
+        "date": 26
+      },
+      {
+        "high": 77,
+        "low": 59,
+        "date": 27
+      },
+      {
+        "high": 73,
+        "low": 61,
+        "date": 28
+      },
+      {
+        "high": 70,
+        "low": 57,
+        "date": 29
+      },
+      {
+        "high": 78,
+        "low": 56,
+        "date": 30
+      },
+      {
+        "high": 71,
+        "low": 61,
+        "date": 31
+      }
+    ],
+    "11": [
+      {
+        "high": 74,
+        "low": 53,
+        "date": 1
+      },
+      {
+        "high": 71,
+        "low": 49,
+        "date": 2
+      },
+      {
+        "high": 75,
+        "low": 54,
+        "date": 3
+      },
+      {
+        "high": 66,
+        "low": 56,
+        "date": 4
+      },
+      {
+        "high": 69,
+        "low": 53,
+        "date": 5
+      },
+      {
+        "high": 73,
+        "low": 59,
+        "date": 6
+      },
+      {
+        "high": 75,
+        "low": 55,
+        "date": 7
+      },
+      {
+        "high": 74,
+        "low": 49,
+        "date": 8
+      },
+      {
+        "high": 73,
+        "low": 52,
+        "date": 9
+      },
+      {
+        "high": 71,
+        "low": 58,
+        "date": 10
+      },
+      {
+        "high": 74,
+        "low": 52,
+        "date": 11
+      },
+      {
+        "high": 73,
+        "low": 55,
+        "date": 12
+      },
+      {
+        "high": 65,
+        "low": 56,
+        "date": 13
+      },
+      {
+        "high": 70,
+        "low": 52,
+        "date": 14
+      },
+      {
+        "high": 70,
+        "low": 52,
+        "date": 15
+      },
+      {
+        "high": 67,
+        "low": 52,
+        "date": 16
+      },
+      {
+        "high": 67,
+        "low": 59,
+        "date": 17
+      },
+      {
+        "high": 74,
+        "low": 59,
+        "date": 18
+      },
+      {
+        "high": 74,
+        "low": 53,
+        "date": 19
+      },
+      {
+        "high": 65,
+        "low": 53,
+        "date": 20
+      },
+      {
+        "high": 75,
+        "low": 55,
+        "date": 21
+      },
+      {
+        "high": 73,
+        "low": 58,
+        "date": 22
+      },
+      {
+        "high": 65,
+        "low": 57,
+        "date": 23
+      },
+      {
+        "high": 66,
+        "low": 50,
+        "date": 24
+      },
+      {
+        "high": 71,
+        "low": 52,
+        "date": 25
+      },
+      {
+        "high": 68,
+        "low": 52,
+        "date": 26
+      },
+      {
+        "high": 73,
+        "low": 58,
+        "date": 27
+      },
+      {
+        "high": 70,
+        "low": 55,
+        "date": 28
+      },
+      {
+        "high": 68,
+        "low": 53,
+        "date": 29
+      },
+      {
+        "high": 69,
+        "low": 56,
+        "date": 30
+      }
+    ],
+    "12": [
+      {
+        "high": 67,
+        "low": 54,
+        "date": 1
+      },
+      {
+        "high": 62,
+        "low": 44,
+        "date": 2
+      },
+      {
+        "high": 69,
+        "low": 48,
+        "date": 3
+      },
+      {
+        "high": 70,
+        "low": 48,
+        "date": 4
+      },
+      {
+        "high": 63,
+        "low": 54,
+        "date": 5
+      },
+      {
+        "high": 69,
+        "low": 45,
+        "date": 6
+      },
+      {
+        "high": 69,
+        "low": 50,
+        "date": 7
+      },
+      {
+        "high": 66,
+        "low": 51,
+        "date": 8
+      },
+      {
+        "high": 62,
+        "low": 44,
+        "date": 9
+      },
+      {
+        "high": 63,
+        "low": 48,
+        "date": 10
+      },
+      {
+        "high": 70,
+        "low": 48,
+        "date": 11
+      },
+      {
+        "high": 70,
+        "low": 49,
+        "date": 12
+      },
+      {
+        "high": 62,
+        "low": 50,
+        "date": 13
+      },
+      {
+        "high": 65,
+        "low": 46,
+        "date": 14
+      },
+      {
+        "high": 65,
+        "low": 49,
+        "date": 15
+      },
+      {
+        "high": 66,
+        "low": 52,
+        "date": 16
+      },
+      {
+        "high": 67,
+        "low": 44,
+        "date": 17
+      },
+      {
+        "high": 70,
+        "low": 48,
+        "date": 18
+      },
+      {
+        "high": 64,
+        "low": 48,
+        "date": 19
+      },
+      {
+        "high": 65,
+        "low": 52,
+        "date": 20
+      },
+      {
+        "high": 66,
+        "low": 45,
+        "date": 21
+      },
+      {
+        "high": 62,
+        "low": 53,
+        "date": 22
+      },
+      {
+        "high": 63,
+        "low": 50,
+        "date": 23
+      },
+      {
+        "high": 70,
+        "low": 50,
+        "date": 24
+      },
+      {
+        "high": 67,
+        "low": 46,
+        "date": 25
+      },
+      {
+        "high": 64,
+        "low": 45,
+        "date": 26
+      },
+      {
+        "high": 62,
+        "low": 49,
+        "date": 27
+      },
+      {
+        "high": 66,
+        "low": 50,
+        "date": 28
+      },
+      {
+        "high": 62,
+        "low": 50,
+        "date": 29
+      },
+      {
+        "high": 63,
+        "low": 53,
+        "date": 30
+      },
+      {
+        "high": 63,
+        "low": 50,
+        "date": 31
+      }
+    ]
+  },
+  "New York, NY": {
+    "1": [
+      {
+        "high": 39,
+        "low": 30,
+        "date": 1
+      },
+      {
+        "high": 36,
+        "low": 23,
+        "date": 2
+      },
+      {
+        "high": 38,
+        "low": 25,
+        "date": 3
+      },
+      {
+        "high": 34,
+        "low": 22,
+        "date": 4
+      },
+      {
+        "high": 37,
+        "low": 28,
+        "date": 5
+      },
+      {
+        "high": 38,
+        "low": 26,
+        "date": 6
+      },
+      {
+        "high": 38,
+        "low": 30,
+        "date": 7
+      },
+      {
+        "high": 43,
+        "low": 28,
+        "date": 8
+      },
+      {
+        "high": 44,
+        "low": 27,
+        "date": 9
+      },
+      {
+        "high": 37,
+        "low": 23,
+        "date": 10
+      },
+      {
+        "high": 43,
+        "low": 23,
+        "date": 11
+      },
+      {
+        "high": 39,
+        "low": 31,
+        "date": 12
+      },
+      {
+        "high": 43,
+        "low": 25,
+        "date": 13
+      },
+      {
+        "high": 35,
+        "low": 32,
+        "date": 14
+      },
+      {
+        "high": 43,
+        "low": 26,
+        "date": 15
+      },
+      {
+        "high": 40,
+        "low": 23,
+        "date": 16
+      },
+      {
+        "high": 40,
+        "low": 24,
+        "date": 17
+      },
+      {
+        "high": 39,
+        "low": 30,
+        "date": 18
+      },
+      {
+        "high": 39,
+        "low": 32,
+        "date": 19
+      },
+      {
+        "high": 43,
+        "low": 28,
+        "date": 20
+      },
+      {
+        "high": 38,
+        "low": 30,
+        "date": 21
+      },
+      {
+        "high": 40,
+        "low": 24,
+        "date": 22
+      },
+      {
+        "high": 43,
+        "low": 26,
+        "date": 23
+      },
+      {
+        "high": 44,
+        "low": 24,
+        "date": 24
+      },
+      {
+        "high": 40,
+        "low": 23,
+        "date": 25
+      },
+      {
+        "high": 43,
+        "low": 29,
+        "date": 26
+      },
+      {
+        "high": 42,
+        "low": 25,
+        "date": 27
+      },
+      {
+        "high": 40,
+        "low": 29,
+        "date": 28
+      },
+      {
+        "high": 34,
+        "low": 22,
+        "date": 29
+      },
+      {
+        "high": 36,
+        "low": 24,
+        "date": 30
+      },
+      {
+        "high": 38,
+        "low": 24,
+        "date": 31
+      }
+    ],
+    "2": [
+      {
+        "high": 47,
+        "low": 33,
+        "date": 1
+      },
+      {
+        "high": 41,
+        "low": 24,
+        "date": 2
+      },
+      {
+        "high": 43,
+        "low": 30,
+        "date": 3
+      },
+      {
+        "high": 39,
+        "low": 24,
+        "date": 4
+      },
+      {
+        "high": 43,
+        "low": 32,
+        "date": 5
+      },
+      {
+        "high": 40,
+        "low": 30,
+        "date": 6
+      },
+      {
+        "high": 40,
+        "low": 23,
+        "date": 7
+      },
+      {
+        "high": 44,
+        "low": 24,
+        "date": 8
+      },
+      {
+        "high": 44,
+        "low": 30,
+        "date": 9
+      },
+      {
+        "high": 45,
+        "low": 33,
+        "date": 10
+      },
+      {
+        "high": 43,
+        "low": 25,
+        "date": 11
+      },
+      {
+        "high": 41,
+        "low": 29,
+        "date": 12
+      },
+      {
+        "high": 46,
+        "low": 23,
+        "date": 13
+      },
+      {
+        "high": 38,
+        "low": 27,
+        "date": 14
+      },
+      {
+        "high": 40,
+        "low": 33,
+        "date": 15
+      },
+      {
+        "high": 43,
+        "low": 31,
+        "date": 16
+      },
+      {
+        "high": 39,
+        "low": 26,
+        "date": 17
+      },
+      {
+        "high": 37,
+        "low": 28,
+        "date": 18
+      },
+      {
+        "high": 43,
+        "low": 30,
+        "date": 19
+      },
+      {
+        "high": 38,
+        "low": 33,
+        "date": 20
+      },
+      {
+        "high": 44,
+        "low": 29,
+        "date": 21
+      },
+      {
+        "high": 46,
+        "low": 23,
+        "date": 22
+      },
+      {
+        "high": 43,
+        "low": 28,
+        "date": 23
+      },
+      {
+        "high": 41,
+        "low": 29,
+        "date": 24
+      },
+      {
+        "high": 47,
+        "low": 27,
+        "date": 25
+      },
+      {
+        "high": 44,
+        "low": 26,
+        "date": 26
+      },
+      {
+        "high": 47,
+        "low": 33,
+        "date": 27
+      },
+      {
+        "high": 37,
+        "low": 29,
+        "date": 28
+      }
+    ],
+    "3": [
+      {
+        "high": 49,
+        "low": 40,
+        "date": 1
+      },
+      {
+        "high": 51,
+        "low": 32,
+        "date": 2
+      },
+      {
+        "high": 52,
+        "low": 32,
+        "date": 3
+      },
+      {
+        "high": 45,
+        "low": 32,
+        "date": 4
+      },
+      {
+        "high": 53,
+        "low": 36,
+        "date": 5
+      },
+      {
+        "high": 49,
+        "low": 40,
+        "date": 6
+      },
+      {
+        "high": 47,
+        "low": 31,
+        "date": 7
+      },
+      {
+        "high": 48,
+        "low": 30,
+        "date": 8
+      },
+      {
+        "high": 52,
+        "low": 34,
+        "date": 9
+      },
+      {
+        "high": 50,
+        "low": 37,
+        "date": 10
+      },
+      {
+        "high": 45,
+        "low": 31,
+        "date": 11
+      },
+      {
+        "high": 45,
+        "low": 40,
+        "date": 12
+      },
+      {
+        "high": 52,
+        "low": 35,
+        "date": 13
+      },
+      {
+        "high": 46,
+        "low": 37,
+        "date": 14
+      },
+      {
+        "high": 53,
+        "low": 33,
+        "date": 15
+      },
+      {
+        "high": 54,
+        "low": 34,
+        "date": 16
+      },
+      {
+        "high": 49,
+        "low": 39,
+        "date": 17
+      },
+      {
+        "high": 52,
+        "low": 35,
+        "date": 18
+      },
+      {
+        "high": 46,
+        "low": 34,
+        "date": 19
+      },
+      {
+        "high": 53,
+        "low": 32,
+        "date": 20
+      },
+      {
+        "high": 54,
+        "low": 31,
+        "date": 21
+      },
+      {
+        "high": 46,
+        "low": 32,
+        "date": 22
+      },
+      {
+        "high": 46,
+        "low": 34,
+        "date": 23
+      },
+      {
+        "high": 52,
+        "low": 35,
+        "date": 24
+      },
+      {
+        "high": 54,
+        "low": 31,
+        "date": 25
+      },
+      {
+        "high": 45,
+        "low": 39,
+        "date": 26
+      },
+      {
+        "high": 46,
+        "low": 33,
+        "date": 27
+      },
+      {
+        "high": 47,
+        "low": 32,
+        "date": 28
+      },
+      {
+        "high": 54,
+        "low": 40,
+        "date": 29
+      },
+      {
+        "high": 46,
+        "low": 37,
+        "date": 30
+      },
+      {
+        "high": 55,
+        "low": 35,
+        "date": 31
+      }
+    ],
+    "4": [
+      {
+        "high": 61,
+        "low": 47,
+        "date": 1
+      },
+      {
+        "high": 64,
+        "low": 42,
+        "date": 2
+      },
+      {
+        "high": 65,
+        "low": 45,
+        "date": 3
+      },
+      {
+        "high": 59,
+        "low": 47,
+        "date": 4
+      },
+      {
+        "high": 63,
+        "low": 45,
+        "date": 5
+      },
+      {
+        "high": 65,
+        "low": 46,
+        "date": 6
+      },
+      {
+        "high": 65,
+        "low": 50,
+        "date": 7
+      },
+      {
+        "high": 59,
+        "low": 46,
+        "date": 8
+      },
+      {
+        "high": 62,
+        "low": 46,
+        "date": 9
+      },
+      {
+        "high": 65,
+        "low": 43,
+        "date": 10
+      },
+      {
+        "high": 63,
+        "low": 41,
+        "date": 11
+      },
+      {
+        "high": 67,
+        "low": 46,
+        "date": 12
+      },
+      {
+        "high": 57,
+        "low": 45,
+        "date": 13
+      },
+      {
+        "high": 65,
+        "low": 46,
+        "date": 14
+      },
+      {
+        "high": 62,
+        "low": 41,
+        "date": 15
+      },
+      {
+        "high": 58,
+        "low": 42,
+        "date": 16
+      },
+      {
+        "high": 59,
+        "low": 43,
+        "date": 17
+      },
+      {
+        "high": 64,
+        "low": 46,
+        "date": 18
+      },
+      {
+        "high": 57,
+        "low": 47,
+        "date": 19
+      },
+      {
+        "high": 66,
+        "low": 48,
+        "date": 20
+      },
+      {
+        "high": 60,
+        "low": 45,
+        "date": 21
+      },
+      {
+        "high": 67,
+        "low": 48,
+        "date": 22
+      },
+      {
+        "high": 61,
+        "low": 42,
+        "date": 23
+      },
+      {
+        "high": 57,
+        "low": 43,
+        "date": 24
+      },
+      {
+        "high": 59,
+        "low": 40,
+        "date": 25
+      },
+      {
+        "high": 61,
+        "low": 44,
+        "date": 26
+      },
+      {
+        "high": 58,
+        "low": 43,
+        "date": 27
+      },
+      {
+        "high": 67,
+        "low": 41,
+        "date": 28
+      },
+      {
+        "high": 64,
+        "low": 48,
+        "date": 29
+      },
+      {
+        "high": 65,
+        "low": 45,
+        "date": 30
+      }
+    ],
+    "5": [
+      {
+        "high": 72,
+        "low": 52,
+        "date": 1
+      },
+      {
+        "high": 70,
+        "low": 53,
+        "date": 2
+      },
+      {
+        "high": 75,
+        "low": 58,
+        "date": 3
+      },
+      {
+        "high": 67,
+        "low": 54,
+        "date": 4
+      },
+      {
+        "high": 72,
+        "low": 57,
+        "date": 5
+      },
+      {
+        "high": 69,
+        "low": 51,
+        "date": 6
+      },
+      {
+        "high": 67,
+        "low": 52,
+        "date": 7
+      },
+      {
+        "high": 69,
+        "low": 59,
+        "date": 8
+      },
+      {
+        "high": 76,
+        "low": 56,
+        "date": 9
+      },
+      {
+        "high": 69,
+        "low": 51,
+        "date": 10
+      },
+      {
+        "high": 67,
+        "low": 49,
+        "date": 11
+      },
+      {
+        "high": 73,
+        "low": 57,
+        "date": 12
+      },
+      {
+        "high": 73,
+        "low": 53,
+        "date": 13
+      },
+      {
+        "high": 72,
+        "low": 53,
+        "date": 14
+      },
+      {
+        "high": 67,
+        "low": 53,
+        "date": 15
+      },
+      {
+        "high": 68,
+        "low": 55,
+        "date": 16
+      },
+      {
+        "high": 75,
+        "low": 49,
+        "date": 17
+      },
+      {
+        "high": 68,
+        "low": 50,
+        "date": 18
+      },
+      {
+        "high": 74,
+        "low": 52,
+        "date": 19
+      },
+      {
+        "high": 77,
+        "low": 55,
+        "date": 20
+      },
+      {
+        "high": 74,
+        "low": 49,
+        "date": 21
+      },
+      {
+        "high": 76,
+        "low": 51,
+        "date": 22
+      },
+      {
+        "high": 67,
+        "low": 52,
+        "date": 23
+      },
+      {
+        "high": 70,
+        "low": 53,
+        "date": 24
+      },
+      {
+        "high": 69,
+        "low": 52,
+        "date": 25
+      },
+      {
+        "high": 72,
+        "low": 50,
+        "date": 26
+      },
+      {
+        "high": 73,
+        "low": 50,
+        "date": 27
+      },
+      {
+        "high": 71,
+        "low": 54,
+        "date": 28
+      },
+      {
+        "high": 77,
+        "low": 53,
+        "date": 29
+      },
+      {
+        "high": 77,
+        "low": 50,
+        "date": 30
+      },
+      {
+        "high": 77,
+        "low": 54,
+        "date": 31
+      }
+    ],
+    "6": [
+      {
+        "high": 80,
+        "low": 61,
+        "date": 1
+      },
+      {
+        "high": 77,
+        "low": 66,
+        "date": 2
+      },
+      {
+        "high": 79,
+        "low": 64,
+        "date": 3
+      },
+      {
+        "high": 75,
+        "low": 65,
+        "date": 4
+      },
+      {
+        "high": 77,
+        "low": 66,
+        "date": 5
+      },
+      {
+        "high": 76,
+        "low": 63,
+        "date": 6
+      },
+      {
+        "high": 84,
+        "low": 65,
+        "date": 7
+      },
+      {
+        "high": 76,
+        "low": 68,
+        "date": 8
+      },
+      {
+        "high": 81,
+        "low": 66,
+        "date": 9
+      },
+      {
+        "high": 76,
+        "low": 63,
+        "date": 10
+      },
+      {
+        "high": 75,
+        "low": 63,
+        "date": 11
+      },
+      {
+        "high": 84,
+        "low": 63,
+        "date": 12
+      },
+      {
+        "high": 83,
+        "low": 64,
+        "date": 13
+      },
+      {
+        "high": 77,
+        "low": 66,
+        "date": 14
+      },
+      {
+        "high": 84,
+        "low": 64,
+        "date": 15
+      },
+      {
+        "high": 85,
+        "low": 64,
+        "date": 16
+      },
+      {
+        "high": 75,
+        "low": 60,
+        "date": 17
+      },
+      {
+        "high": 82,
+        "low": 64,
+        "date": 18
+      },
+      {
+        "high": 85,
+        "low": 64,
+        "date": 19
+      },
+      {
+        "high": 78,
+        "low": 68,
+        "date": 20
+      },
+      {
+        "high": 76,
+        "low": 68,
+        "date": 21
+      },
+      {
+        "high": 85,
+        "low": 69,
+        "date": 22
+      },
+      {
+        "high": 81,
+        "low": 66,
+        "date": 23
+      },
+      {
+        "high": 81,
+        "low": 68,
+        "date": 24
+      },
+      {
+        "high": 82,
+        "low": 64,
+        "date": 25
+      },
+      {
+        "high": 77,
+        "low": 69,
+        "date": 26
+      },
+      {
+        "high": 80,
+        "low": 65,
+        "date": 27
+      },
+      {
+        "high": 75,
+        "low": 61,
+        "date": 28
+      },
+      {
+        "high": 79,
+        "low": 61,
+        "date": 29
+      },
+      {
+        "high": 83,
+        "low": 61,
+        "date": 30
+      }
+    ],
+    "7": [
+      {
+        "high": 82,
+        "low": 67,
+        "date": 1
+      },
+      {
+        "high": 88,
+        "low": 64,
+        "date": 2
+      },
+      {
+        "high": 81,
+        "low": 69,
+        "date": 3
+      },
+      {
+        "high": 90,
+        "low": 74,
+        "date": 4
+      },
+      {
+        "high": 81,
+        "low": 64,
+        "date": 5
+      },
+      {
+        "high": 82,
+        "low": 67,
+        "date": 6
+      },
+      {
+        "high": 82,
+        "low": 70,
+        "date": 7
+      },
+      {
+        "high": 85,
+        "low": 73,
+        "date": 8
+      },
+      {
+        "high": 86,
+        "low": 65,
+        "date": 9
+      },
+      {
+        "high": 83,
+        "low": 69,
+        "date": 10
+      },
+      {
+        "high": 86,
+        "low": 72,
+        "date": 11
+      },
+      {
+        "high": 83,
+        "low": 74,
+        "date": 12
+      },
+      {
+        "high": 83,
+        "low": 65,
+        "date": 13
+      },
+      {
+        "high": 89,
+        "low": 64,
+        "date": 14
+      },
+      {
+        "high": 88,
+        "low": 71,
+        "date": 15
+      },
+      {
+        "high": 81,
+        "low": 65,
+        "date": 16
+      },
+      {
+        "high": 86,
+        "low": 70,
+        "date": 17
+      },
+      {
+        "high": 82,
+        "low": 65,
+        "date": 18
+      },
+      {
+        "high": 90,
+        "low": 72,
+        "date": 19
+      },
+      {
+        "high": 83,
+        "low": 72,
+        "date": 20
+      },
+      {
+        "high": 87,
+        "low": 64,
+        "date": 21
+      },
+      {
+        "high": 88,
+        "low": 64,
+        "date": 22
+      },
+      {
+        "high": 85,
+        "low": 66,
+        "date": 23
+      },
+      {
+        "high": 90,
+        "low": 65,
+        "date": 24
+      },
+      {
+        "high": 87,
+        "low": 70,
+        "date": 25
+      },
+      {
+        "high": 83,
+        "low": 74,
+        "date": 26
+      },
+      {
+        "high": 89,
+        "low": 66,
+        "date": 27
+      },
+      {
+        "high": 82,
+        "low": 67,
+        "date": 28
+      },
+      {
+        "high": 81,
+        "low": 73,
+        "date": 29
+      },
+      {
+        "high": 81,
+        "low": 74,
+        "date": 30
+      },
+      {
+        "high": 82,
+        "low": 70,
+        "date": 31
+      }
+    ],
+    "8": [
+      {
+        "high": 81,
+        "low": 63,
+        "date": 1
+      },
+      {
+        "high": 81,
+        "low": 64,
+        "date": 2
+      },
+      {
+        "high": 82,
+        "low": 69,
+        "date": 3
+      },
+      {
+        "high": 80,
+        "low": 66,
+        "date": 4
+      },
+      {
+        "high": 81,
+        "low": 68,
+        "date": 5
+      },
+      {
+        "high": 89,
+        "low": 73,
+        "date": 6
+      },
+      {
+        "high": 80,
+        "low": 71,
+        "date": 7
+      },
+      {
+        "high": 82,
+        "low": 73,
+        "date": 8
+      },
+      {
+        "high": 89,
+        "low": 71,
+        "date": 9
+      },
+      {
+        "high": 82,
+        "low": 66,
+        "date": 10
+      },
+      {
+        "high": 88,
+        "low": 63,
+        "date": 11
+      },
+      {
+        "high": 85,
+        "low": 68,
+        "date": 12
+      },
+      {
+        "high": 79,
+        "low": 64,
+        "date": 13
+      },
+      {
+        "high": 86,
+        "low": 69,
+        "date": 14
+      },
+      {
+        "high": 81,
+        "low": 68,
+        "date": 15
+      },
+      {
+        "high": 79,
+        "low": 69,
+        "date": 16
+      },
+      {
+        "high": 87,
+        "low": 64,
+        "date": 17
+      },
+      {
+        "high": 88,
+        "low": 68,
+        "date": 18
+      },
+      {
+        "high": 79,
+        "low": 65,
+        "date": 19
+      },
+      {
+        "high": 89,
+        "low": 73,
+        "date": 20
+      },
+      {
+        "high": 85,
+        "low": 70,
+        "date": 21
+      },
+      {
+        "high": 79,
+        "low": 73,
+        "date": 22
+      },
+      {
+        "high": 86,
+        "low": 65,
+        "date": 23
+      },
+      {
+        "high": 81,
+        "low": 71,
+        "date": 24
+      },
+      {
+        "high": 86,
+        "low": 66,
+        "date": 25
+      },
+      {
+        "high": 80,
+        "low": 68,
+        "date": 26
+      },
+      {
+        "high": 83,
+        "low": 65,
+        "date": 27
+      },
+      {
+        "high": 82,
+        "low": 66,
+        "date": 28
+      },
+      {
+        "high": 82,
+        "low": 70,
+        "date": 29
+      },
+      {
+        "high": 84,
+        "low": 71,
+        "date": 30
+      },
+      {
+        "high": 83,
+        "low": 72,
+        "date": 31
+      }
+    ],
+    "9": [
+      {
+        "high": 72,
+        "low": 59,
+        "date": 1
+      },
+      {
+        "high": 81,
+        "low": 61,
+        "date": 2
+      },
+      {
+        "high": 76,
+        "low": 60,
+        "date": 3
+      },
+      {
+        "high": 71,
+        "low": 64,
+        "date": 4
+      },
+      {
+        "high": 72,
+        "low": 63,
+        "date": 5
+      },
+      {
+        "high": 75,
+        "low": 57,
+        "date": 6
+      },
+      {
+        "high": 76,
+        "low": 57,
+        "date": 7
+      },
+      {
+        "high": 75,
+        "low": 59,
+        "date": 8
+      },
+      {
+        "high": 72,
+        "low": 65,
+        "date": 9
+      },
+      {
+        "high": 78,
+        "low": 57,
+        "date": 10
+      },
+      {
+        "high": 78,
+        "low": 59,
+        "date": 11
+      },
+      {
+        "high": 73,
+        "low": 63,
+        "date": 12
+      },
+      {
+        "high": 74,
+        "low": 57,
+        "date": 13
+      },
+      {
+        "high": 71,
+        "low": 64,
+        "date": 14
+      },
+      {
+        "high": 72,
+        "low": 58,
+        "date": 15
+      },
+      {
+        "high": 72,
+        "low": 64,
+        "date": 16
+      },
+      {
+        "high": 76,
+        "low": 64,
+        "date": 17
+      },
+      {
+        "high": 79,
+        "low": 58,
+        "date": 18
+      },
+      {
+        "high": 72,
+        "low": 63,
+        "date": 19
+      },
+      {
+        "high": 71,
+        "low": 59,
+        "date": 20
+      },
+      {
+        "high": 79,
+        "low": 62,
+        "date": 21
+      },
+      {
+        "high": 81,
+        "low": 60,
+        "date": 22
+      },
+      {
+        "high": 71,
+        "low": 66,
+        "date": 23
+      },
+      {
+        "high": 78,
+        "low": 65,
+        "date": 24
+      },
+      {
+        "high": 71,
+        "low": 66,
+        "date": 25
+      },
+      {
+        "high": 80,
+        "low": 61,
+        "date": 26
+      },
+      {
+        "high": 74,
+        "low": 61,
+        "date": 27
+      },
+      {
+        "high": 71,
+        "low": 60,
+        "date": 28
+      },
+      {
+        "high": 75,
+        "low": 58,
+        "date": 29
+      },
+      {
+        "high": 72,
+        "low": 60,
+        "date": 30
+      }
+    ],
+    "10": [
+      {
+        "high": 60,
+        "low": 53,
+        "date": 1
+      },
+      {
+        "high": 66,
+        "low": 50,
+        "date": 2
+      },
+      {
+        "high": 65,
+        "low": 49,
+        "date": 3
+      },
+      {
+        "high": 65,
+        "low": 47,
+        "date": 4
+      },
+      {
+        "high": 65,
+        "low": 51,
+        "date": 5
+      },
+      {
+        "high": 65,
+        "low": 53,
+        "date": 6
+      },
+      {
+        "high": 61,
+        "low": 51,
+        "date": 7
+      },
+      {
+        "high": 60,
+        "low": 51,
+        "date": 8
+      },
+      {
+        "high": 66,
+        "low": 53,
+        "date": 9
+      },
+      {
+        "high": 69,
+        "low": 48,
+        "date": 10
+      },
+      {
+        "high": 61,
+        "low": 47,
+        "date": 11
+      },
+      {
+        "high": 64,
+        "low": 52,
+        "date": 12
+      },
+      {
+        "high": 60,
+        "low": 48,
+        "date": 13
+      },
+      {
+        "high": 60,
+        "low": 47,
+        "date": 14
+      },
+      {
+        "high": 61,
+        "low": 54,
+        "date": 15
+      },
+      {
+        "high": 61,
+        "low": 51,
+        "date": 16
+      },
+      {
+        "high": 63,
+        "low": 49,
+        "date": 17
+      },
+      {
+        "high": 67,
+        "low": 55,
+        "date": 18
+      },
+      {
+        "high": 65,
+        "low": 55,
+        "date": 19
+      },
+      {
+        "high": 61,
+        "low": 49,
+        "date": 20
+      },
+      {
+        "high": 65,
+        "low": 53,
+        "date": 21
+      },
+      {
+        "high": 67,
+        "low": 49,
+        "date": 22
+      },
+      {
+        "high": 69,
+        "low": 49,
+        "date": 23
+      },
+      {
+        "high": 64,
+        "low": 52,
+        "date": 24
+      },
+      {
+        "high": 68,
+        "low": 54,
+        "date": 25
+      },
+      {
+        "high": 64,
+        "low": 53,
+        "date": 26
+      },
+      {
+        "high": 69,
+        "low": 52,
+        "date": 27
+      },
+      {
+        "high": 60,
+        "low": 47,
+        "date": 28
+      },
+      {
+        "high": 66,
+        "low": 47,
+        "date": 29
+      },
+      {
+        "high": 66,
+        "low": 52,
+        "date": 30
+      },
+      {
+        "high": 60,
+        "low": 46,
+        "date": 31
+      }
+    ],
+    "11": [
+      {
+        "high": 55,
+        "low": 41,
+        "date": 1
+      },
+      {
+        "high": 52,
+        "low": 41,
+        "date": 2
+      },
+      {
+        "high": 49,
+        "low": 45,
+        "date": 3
+      },
+      {
+        "high": 55,
+        "low": 44,
+        "date": 4
+      },
+      {
+        "high": 59,
+        "low": 43,
+        "date": 5
+      },
+      {
+        "high": 59,
+        "low": 39,
+        "date": 6
+      },
+      {
+        "high": 58,
+        "low": 37,
+        "date": 7
+      },
+      {
+        "high": 53,
+        "low": 46,
+        "date": 8
+      },
+      {
+        "high": 54,
+        "low": 41,
+        "date": 9
+      },
+      {
+        "high": 52,
+        "low": 44,
+        "date": 10
+      },
+      {
+        "high": 50,
+        "low": 40,
+        "date": 11
+      },
+      {
+        "high": 59,
+        "low": 45,
+        "date": 12
+      },
+      {
+        "high": 59,
+        "low": 44,
+        "date": 13
+      },
+      {
+        "high": 57,
+        "low": 40,
+        "date": 14
+      },
+      {
+        "high": 57,
+        "low": 45,
+        "date": 15
+      },
+      {
+        "high": 52,
+        "low": 38,
+        "date": 16
+      },
+      {
+        "high": 56,
+        "low": 43,
+        "date": 17
+      },
+      {
+        "high": 52,
+        "low": 41,
+        "date": 18
+      },
+      {
+        "high": 56,
+        "low": 40,
+        "date": 19
+      },
+      {
+        "high": 54,
+        "low": 42,
+        "date": 20
+      },
+      {
+        "high": 57,
+        "low": 44,
+        "date": 21
+      },
+      {
+        "high": 50,
+        "low": 40,
+        "date": 22
+      },
+      {
+        "high": 52,
+        "low": 43,
+        "date": 23
+      },
+      {
+        "high": 57,
+        "low": 47,
+        "date": 24
+      },
+      {
+        "high": 58,
+        "low": 42,
+        "date": 25
+      },
+      {
+        "high": 58,
+        "low": 37,
+        "date": 26
+      },
+      {
+        "high": 54,
+        "low": 43,
+        "date": 27
+      },
+      {
+        "high": 58,
+        "low": 37,
+        "date": 28
+      },
+      {
+        "high": 49,
+        "low": 39,
+        "date": 29
+      },
+      {
+        "high": 55,
+        "low": 42,
+        "date": 30
+      }
+    ],
+    "12": [
+      {
+        "high": 43,
+        "low": 32,
+        "date": 1
+      },
+      {
+        "high": 45,
+        "low": 35,
+        "date": 2
+      },
+      {
+        "high": 40,
+        "low": 34,
+        "date": 3
+      },
+      {
+        "high": 46,
+        "low": 28,
+        "date": 4
+      },
+      {
+        "high": 43,
+        "low": 34,
+        "date": 5
+      },
+      {
+        "high": 42,
+        "low": 36,
+        "date": 6
+      },
+      {
+        "high": 46,
+        "low": 29,
+        "date": 7
+      },
+      {
+        "high": 42,
+        "low": 28,
+        "date": 8
+      },
+      {
+        "high": 48,
+        "low": 27,
+        "date": 9
+      },
+      {
+        "high": 46,
+        "low": 34,
+        "date": 10
+      },
+      {
+        "high": 46,
+        "low": 34,
+        "date": 11
+      },
+      {
+        "high": 49,
+        "low": 31,
+        "date": 12
+      },
+      {
+        "high": 45,
+        "low": 32,
+        "date": 13
+      },
+      {
+        "high": 39,
+        "low": 33,
+        "date": 14
+      },
+      {
+        "high": 44,
+        "low": 29,
+        "date": 15
+      },
+      {
+        "high": 41,
+        "low": 37,
+        "date": 16
+      },
+      {
+        "high": 41,
+        "low": 30,
+        "date": 17
+      },
+      {
+        "high": 46,
+        "low": 28,
+        "date": 18
+      },
+      {
+        "high": 40,
+        "low": 27,
+        "date": 19
+      },
+      {
+        "high": 43,
+        "low": 32,
+        "date": 20
+      },
+      {
+        "high": 41,
+        "low": 35,
+        "date": 21
+      },
+      {
+        "high": 49,
+        "low": 32,
+        "date": 22
+      },
+      {
+        "high": 47,
+        "low": 33,
+        "date": 23
+      },
+      {
+        "high": 48,
+        "low": 30,
+        "date": 24
+      },
+      {
+        "high": 49,
+        "low": 30,
+        "date": 25
+      },
+      {
+        "high": 43,
+        "low": 33,
+        "date": 26
+      },
+      {
+        "high": 43,
+        "low": 34,
+        "date": 27
+      },
+      {
+        "high": 46,
+        "low": 30,
+        "date": 28
+      },
+      {
+        "high": 40,
+        "low": 35,
+        "date": 29
+      },
+      {
+        "high": 47,
+        "low": 33,
+        "date": 30
+      },
+      {
+        "high": 49,
+        "low": 35,
+        "date": 31
+      }
+    ]
+  }
+}
